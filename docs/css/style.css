@@ -1,0 +1,32 @@
+body {
+    font-family: 'Montserrat', 'Lato', sans-serif;
+}
+
+.masthead {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    text-align: center;
+    color: white;
+}
+
+.masthead-avatar {
+    border-radius: 50%;
+}
+
+.page-section {
+    padding: 5rem 0;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.footer {
+    padding: 4rem 0;
+    background-color: #222;
+    color: white;
+}
+
+.btn-social {
+    color: white;
+}
